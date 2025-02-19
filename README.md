@@ -9,9 +9,9 @@ More JavaScript practice
 ## Getting Started
 
 ### Installing
-
-* git clone 
-
+```
+git clone https://github.com/zapier2/basic-todo-js.git
+```
 ### Executing program
 
 * Open live server extension on VS code
